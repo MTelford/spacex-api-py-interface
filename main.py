@@ -85,9 +85,3 @@ class SpaceXAPIInterface():
 
     
 
-
-spacexapi = SpaceXAPIInterface()
-
-company_info = spacexapi.get_company_info()
-
-print(company_info)
