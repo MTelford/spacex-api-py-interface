@@ -1,10 +1,11 @@
-# Pythonic Interface to SpaceX API at https://github.com/r-spacex/SpaceX-API
+## Pythonic Interface to SpaceX API at https://github.com/r-spacex/SpaceX-API
 
-## Description
+### Description
 
 Essentially takes the data from the SpaceX API and bundles it into an easy to use python interface for accessing the data.
 
 ## Getting Started
+
 
 ### Dependencies
 
