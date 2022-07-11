@@ -1,4 +1,4 @@
-## Pythonic Interface to SpaceX API at https://github.com/r-spacex/SpaceX-API
+## Python Interface to SpaceX API at https://github.com/r-spacex/SpaceX-API
 
 ### Description
 
